@@ -1,2 +1,2 @@
-# codesoft3
+# codsoft3/calculator
 Simple calculator
